@@ -1,6 +1,6 @@
 # Ansible Role: Docker
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-docker.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-docker)
+[![Build Status](https://travis-ci.org/hapidznur/PlayOnAnsible.svg?branch=master)](https://travis-ci.org/hapidznur/PlayOnAnsible)
 
 An Ansible Role that installs [Docker](https://www.docker.com) on Linux.
 
@@ -85,5 +85,5 @@ None.
 MIT / BSD
 
 ## Author Information
-
+Fork from: https://github.com/geerlingguy/ansible-role-docker
 This role was created in 2017 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
